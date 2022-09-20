@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
@@ -37,3 +38,13 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 ## Solução
 Implementações solicitadas realizadas. (todas relacionadas a Cadastrar veículo, Remover veículo e Listar veículos)
 App funcional...
+=======
+# Projeto prático de introdução ao desenvolvimento com C# .NET proposto pela Dio.me
+
+### Realizado implementações de adicionar, buscar e remover strings em uma lista, onde:
+
+- O contexto é um estacionamento.
+- Os valores manipulados representam placas de veículos estacionados no estacionamento.
+- Realizado calculo de precificação do estacionamento atrelado ao tempo de permanência no estacionamento.
+- A lista de strings pode de certa forma representar uma abstração de um repositório de veículos, neste caso o sistema não fez uso de orientação a objetos 100% para representar um veículo como entidade de forma separada.
+>>>>>>> 50227067a6bafd4d70b58a1ec1fd0cdab1022a06
